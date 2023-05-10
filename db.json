@@ -1,0 +1,153 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princes Diana"
+    },
+    {
+      "id": 4,
+      "name": "React Man",
+      "alterEgo": "Narendra Singh"
+    },
+    {
+      "name": "Pad Man",
+      "alterEgo": "Akshay Kumar",
+      "id": 5
+    },
+    {
+      "name": "Add Man",
+      "alterEgo": "Add Kunal",
+      "id": 6
+    },
+    {
+      "name": "New Man",
+      "alterEgo": "New Man Server",
+      "id": 7
+    },
+    {
+      "name": "Color Man",
+      "alterEgo": "Colored Man Below",
+      "id": 8
+    },
+    {
+      "name": "Hover Man",
+      "alterEgo": "My Hover Skills",
+      "id": 9
+    },
+    {
+      "name": "My New Hero",
+      "alterEgo": "Salman Khan",
+      "id": 10
+    },
+    {
+      "name": "KKKKK",
+      "alterEgo": "KK RR",
+      "id": 11
+    },
+    {
+      "name": "KKKKK",
+      "alterEgo": "KK RR",
+      "id": 12
+    },
+    {
+      "name": "kkr",
+      "alterEgo": "kkr man",
+      "id": 13
+    },
+    {
+      "name": "mmr",
+      "alterEgo": "mmr man",
+      "id": 14
+    },
+    {
+      "name": "mmr",
+      "alterEgo": "mmr man",
+      "id": 15
+    },
+    {
+      "name": "narru",
+      "alterEgo": "narru man",
+      "id": 16
+    },
+    {
+      "name": "Cat Man",
+      "alterEgo": "Cat Man Name",
+      "id": 17
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Gajendra Singh"
+    },
+    {
+      "id": 2,
+      "name": "Vijendra Singh"
+    },
+    {
+      "id": 3,
+      "name": "Surendra Singh"
+    }
+  ],
+  "users": [
+    {
+      "id": "narendra@example.com",
+      "channelId": "narru"
+    }
+  ],
+  "channels": [
+    {
+      "id": "narru",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "orange"
+    },
+    {
+      "id": 3,
+      "label": "yellow"
+    },
+    {
+      "id": 4,
+      "label": "green"
+    },
+    {
+      "id": 5,
+      "label": "blue"
+    },
+    {
+      "id": 6,
+      "label": "indigo"
+    },
+    {
+      "id": 7,
+      "label": "violet"
+    },
+    {
+      "id": 8,
+      "label": "black"
+    }
+  ]
+}
